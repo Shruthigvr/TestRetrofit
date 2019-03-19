@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557463120205",
+    "firebase_url": "https://testretrofit-44333.firebaseio.com",
+    "project_id": "testretrofit-44333",
+    "storage_bucket": "testretrofit-44333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557463120205:android:a388d01b8a4076ae",
+        "android_client_info": {
+          "package_name": "com.example.sruthi.testretrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557463120205-64fli461jrv7p3e1clvnm18266q75gog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sruthi.testretrofi",
+            "certificate_hash": "e4ea6abf9998668407c8d33d5dc820d2d5652b5e"
+          }
+        },
+        {
+          "client_id": "557463120205-bb5aoecdj28ird7ac0t9pmkqhs21vn0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKOq-HjUGr7ARqF65hv-kILMY8O9o01xQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557463120205-bb5aoecdj28ird7ac0t9pmkqhs21vn0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
